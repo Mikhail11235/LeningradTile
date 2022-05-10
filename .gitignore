@@ -1,0 +1,12 @@
+artifacts
+cache
+node_modules
+files/images/
+files/metadata/
+files/metadata.car
+package-lock.json
+package.json
+*.pyc
+*.log
+.idea
+*.DS_Store
